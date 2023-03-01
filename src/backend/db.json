@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.apple.com%2Fuk%2Fshop%2Fbuy-iphone%2Fiphone-14-pro&psig=AOvVaw1BByTYeKHZJOclTF4C3AZg&ust=1677756789686000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKiPw53Ruv0CFQAAAAAdAAAAABAG",
+      "name": "IPhone 14 Pro",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        {
+            "id": 1,
+            "text": "Super!!!"
+        },
+        {
+            "id": 2,
+            "text": "Poor!!!"
+        }
+        ]
+    },
+    {
+        "id": 2,
+        "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fapple-mania.com.ua%2Fru%2Fapple-iphone-13-512gb-starlight-mln33%2F&psig=AOvVaw0faidIuquwdpagZfWFiwdQ&ust=1677756857081000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDn773Ruv0CFQAAAAAdAAAAABAF",
+        "name": "IPhone 13",
+        "count": 4,
+        "size": {
+          "width": 200,
+          "height": 200
+        },
+        "weight": "200g",
+        "comments": [
+        {
+            "id": 1,
+            "text": "Super"
+        },
+        {
+            "id": 2,
+            "text": "Poor"
+        }
+        ]
+      }
+  ]
+}
